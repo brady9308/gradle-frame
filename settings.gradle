@@ -4,4 +4,3 @@
  * include ':项目名称1'
  * include ':项目名称2'
  */
-include ':library'

@@ -5,3 +5,12 @@
 .DS_Store
 /build
 /captures
+
+/gradle
+/.gitignore
+/.gitignore.bak
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
